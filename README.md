@@ -1,61 +1,7 @@
-# Engenharia de Software - PUC Minas
+# Processo de Avaliação de Software no padrão ISO-9126</center>
+Otávio Felipe Celani e Silva
 
-# Unidade Educacional Praça da Liberdade
-
-# Qualidade de Software
-
-
-
-
-
-
-
-
-
-
-
-<center></size><font size="3">Processo de Avaliação de Software no padrão ISO-9126</center>
-
-# **Google Tradutor**
-
-
-
-
-
-
-
-<center></size><font size="4">Otávio Felipe Celani e Silva</center>
-
-
-
-
-
-
-
-
-
-
-
-<center></size><font size="3">Belo Horizonte</center>
-
-<center></size><font size="3">Abril / 2020</center>
-
-
-
-
-
-------
-
-[TOC]
-
-
-
-
-
-
-
-
-
+### **Google Tradutor**
 
 
 ## Introdução
